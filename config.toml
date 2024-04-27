@@ -1,3 +1,28 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Kristian De Leon'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "Bio"
+    name = "Bio"
+    url = "/bio/"
+    weight = 11
+  [[menu.main]]
+    identifier = "works"
+    name = "Works"
+    url = "/works/"
+    weight = 12
+  [[menu.main]]
+    identifier = "videos"
+    name = "Videos"
+    url = "/videos/"
+    weight = 13
