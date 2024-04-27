@@ -14,20 +14,20 @@ CanonifyURLs=true
 [menu]
   [[menu.main]]
     identifier = "home"
-    url = "/home/"
+    url = "home/"
     weight = 10
   [[menu.main]]
     identifier = "Bio"
     name = "Bio"
-    url = "/bio/"
+    url = "bio/"
     weight = 11
   [[menu.main]]
     identifier = "works"
     name = "Works"
-    url = "/works/"
+    url = "works/"
     weight = 12
   [[menu.main]]
     identifier = "videos"
     name = "Videos"
-    url = "/videos/"
+    url = "videos/"
     weight = 13
