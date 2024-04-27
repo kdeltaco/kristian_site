@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "works.md",
+                "file": "bio.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "works.md",
+                "file": "bio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "works.md",
+                "file": "bio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "works.md"
+                "file": "bio.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "9d3496ea7d04f8a2",
   "lastOpenFiles": [
-    "_index.md",
     "works.md",
+    "_index.md",
     "bio.md",
     "videos.md",
     "about.md"
