@@ -1,1 +1,33 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Kristian de Leon'
 theme = 'holy'
+
+CanonifyURLs=true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  email = "kdeleonmusic@gmail.com"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    url = "/home/"
+    weight = 10
+  [[menu.main]]
+    identifier = "Bio"
+    name = "Bio"
+    url = "/bio/"
+    weight = 11
+  [[menu.main]]
+    identifier = "works"
+    name = "Works"
+    url = "/works/"
+    weight = 12
+  [[menu.main]]
+    identifier = "videos"
+    name = "Videos"
+    url = "/videos/"
+    weight = 13
