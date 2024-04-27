@@ -7,10 +7,10 @@ Compositions and arrangements are available for rental or purchase. <br>
 Contact me at [kdeleonmusic@gmail.com](mailto:kdeleonmusic@gmail.com) for more information!
 ### Large Ensemble
 
-| <img width=120/> | <img width=400/>        | <img width=50/> |
-| ---------------- | ----------------------- | --------------- |
-| **Wind Band**    | _State of Alarm_ (2021) | 7 ' 30"         |
-| **Orchestra**    | _Damaged Goods_  (2021) | c. 10'          |
+| <img width=120/> | <img width=400/>                                 | <img width=50/> |
+| ---------------- | ------------------------------------------------ | --------------- |
+| **Wind Band**    | [_State of Alarm_](/works/state_of_alarm) (2021) | 7 ' 30"         |
+| **Orchestra**    | _Damaged Goods_  (2021)                          | c. 10'          |
 
 ### Chamber Ensemble
 

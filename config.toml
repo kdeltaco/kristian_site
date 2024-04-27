@@ -7,11 +7,13 @@ CanonifyURLs=true
 [markup.goldmark.renderer]
   unsafe = true
 
+[params]
+  email = "kdeleonmusic@gmail.com"
+
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "About"
-    url = "/about/"
+    url = "/home/"
     weight = 10
   [[menu.main]]
     identifier = "Bio"
