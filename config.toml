@@ -1,6 +1,9 @@
-baseURL = 'kristian_site/'
+baseURL = '//sourencho.com/kristian_site'
 languageCode = 'en-us'
 title = 'Kristian De Leon'
+
+RelativeURLs=true
+CanonifyURLs=true
 
 [markup.goldmark.renderer]
   unsafe = true
