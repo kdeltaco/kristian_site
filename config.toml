@@ -1,6 +1,6 @@
 baseURL = '//sourencho.com/kristian_site/'
 languageCode = 'en-us'
-title = 'Kristian De Leon'
+title = 'Kristian de Leon'
 
 RelativeURLs=true
 CanonifyURLs=true
