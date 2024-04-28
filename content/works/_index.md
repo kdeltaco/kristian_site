@@ -10,17 +10,17 @@ Contact me at [kdeleonmusic@gmail.com](mailto:kdeleonmusic@gmail.com) for more i
 | <img width=120/> | <img width=400/>                                 | <img width=50/> |
 | ---------------- | ------------------------------------------------ | --------------- |
 | **Wind Band**    | [_State of Alarm_](/works/state_of_alarm) (2021) | 7 ' 30"         |
-| **Orchestra**    | _Damaged Goods_  (2021)                          | c. 10'          |
+| **Orchestra**    | [_Damaged Goods_](/works/damaged_goods) (2021)   | c. 10'          |
 
 ### Chamber Ensemble
 
-| <img width=120/> | <img width=400/>                                                                                            | <img width=50/> |
-| ---------------- | ----------------------------------------------------------------------------------------------------------- | --------------- |
-| **Pierrot**      | _Almost, Tango_ (2022)                                                                                      | *6'30"*         |
-| **Mixed**        | _Missed Messages_ (2019)<br><sub>Bb Tpt / A Sax / Tbn / Pno / Perc: Crotales, Vibraphone, Kick Drum</sub>   | *9-10"*         |
-| **Mixed**        | _Making Matters Worse_  (2018, rev. 2019)<br><sub>Piano / Spoken Word / (opt. Indeterminate Ensemble)</sub> | *4'33"+*        |
-| **Brass**        | _3 Shorts for Andrew_<br><sub>Tuba Quartet<br>(arr. for Brass Quintet)</sub>                                | *10"*           |
-| **Duo**          | _Self Talk_  (2021)<br>                                                                                     | *10"*           |
+| <img width=120/> | <img width=400/>                                                                                                                           | <img width=50/> |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
+| **Pierrot**      | [_Almost, Tango_](/works/almost_tango) (2022)                                                                                              | *6'30"*         |
+| **Mixed**        | [_Missed Messages_](/works/missed_messages) (2019)<br><sub>Bb Tpt / A Sax / Tbn / Pno / Perc: Crotales, Vibraphone, Kick Drum</sub>        | *9-10"*         |
+| **Mixed**        | [_Making Matters Worse_](/works/making_matters_worse)  (2018, rev. 2019)<br><sub>Piano / Spoken Word / (opt. Indeterminate Ensemble)</sub> | *4'33"+*        |
+| **Brass**        | _3 Shorts for Andrew_<br><sub>Tuba Quartet<br>(arr. for Brass Quintet)</sub>                                                               | *10"*           |
+| **Duo**          | _Self Talk_  (2021)<br>                                                                                                                    | *10"*           |
 
 ### Strings
 

@@ -9,7 +9,7 @@ CanonifyURLs=true
   unsafe = true
 
 [params]
-  email = "kdeleonmusic@gmail.com"
+  copyright = "kdeleonmusic@gmail.com"
 
 [menu]
   [[menu.main]]
