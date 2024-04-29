@@ -5,7 +5,8 @@ description:
 **For Full Orchestra**
 
 2021     |     c. 10"     |     Advanced  |  [Perusal Score](</Missed Messages Score Preview.pdf>)     <br>
-<small>Instrumentation: tpt / a. sax / tbn / pno / perc: crotales, vibes, kick drum</small>
+<small>Instrumentation:\
+&nbsp; &nbsp;  tpt / a. sax / tbn / pno / perc: crotales, vibes, kick drum</small>
 ##### Program Note: 
 
      Missed Messages is a mixed quintet for trumpet, trombone, alto saxophone, piano, and percussion. The work is inspired by alternative spaces and methods that messages can be sent or received. The work is in two movements:

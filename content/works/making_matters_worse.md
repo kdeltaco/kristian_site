@@ -4,7 +4,7 @@ title: Making Matters Worse
 **For Indeterminate Ensemble**
 
 2018, rev. 2019     |     4'33"+     |     Medium Easy     |     [Perusal Score](</Making Matters Worse Score Preview.pdf>)<br>
-<small>Instrumentation: Piano + Flexible Ensemble with Spoken Word</small>
+<small>Instrumentation:\Piano + Flexible Ensemble with Spoken Word</small>
 
 > TODO soundcloud integration
 
