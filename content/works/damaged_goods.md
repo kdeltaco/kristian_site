@@ -4,7 +4,9 @@ title: Damaged Goods
 **For Mixed Chamber Ensemble**
 
 2021     |     c. 10"     |     Medium     <br>
-<small>Instrumentation: 2 Fl (2. picc) | 2 Ob. (2. Eng. Hn | 2 Clar. (2. Bass Clar) | 2 Bsn | 4 Horn | 2 Bb Tpt | 2 Tbn | 1 Tba | Timp | 4 Perc | Hp | Pno | Strings</small>
+<small>Instrumentation:</small><br>
+<small>&nbsp; &nbsp; 2.2.2.2, 4.2.2.1, Timp , 4 Perc , Hp , Pno,  Strings</small><br> 
+<small>&nbsp; &nbsp; 2nd winds doubling picc, eng. horn, bass clarinet</small>
 
 > TODO soundcloud integration
 

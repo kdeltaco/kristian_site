@@ -4,8 +4,8 @@ title: Almost Tango
 **For Pierrot Ensemble**
 
 2020     |     c. 6"     |     Medium   |    [Perusal Score](</Almost Tango Score Preview.pdf>)<br>
-<small> Instrumentation: 
-flt / Bb clar / vln / vcl / pno / perc: 5 oct. mba, 2 woodblocks</small>
+<small> Instrumentation: <br>
+flt Bb clar / vln / vcl / pno / perc: 5 oct. mba, 2 woodblocks</small>
 
 <br>
 {{< youtube jyYcRVRXfYU>}}

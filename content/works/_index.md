@@ -24,10 +24,10 @@ Contact me at [kdeleonmusic@gmail.com](mailto:kdeleonmusic@gmail.com) for more i
 
 ### Strings
 
-| <img width=120/>   | <img width=400/>                                                                                                                                      |          |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| **String Quartet** | *Tone:Color* (2022)                                           <br><sub>Amplified String Quartet, Electronics, Fixed Media, and Dynamic Lighting</sub> | *c. 45'* |
-| **String Quartet** | *Brain Curry* (2021)                                                                                                                                  | *6'50"*  |
+| <img width=120/>   | <img width=400/>                                                                                                                                                           |          |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| **String Quartet** | [*Tone:Color*](/works/tone_color) (2022)                                           <br><sub>Amplified String Quartet, Electronics, Fixed Media, and Dynamic Lighting</sub> | *c. 45'* |
+| **String Quartet** | [*Brain Curry*](/works/brain_curry) (2021)                                                                                                                                 | *6'50"*  |
 ## Percussion
 | <img width=120/>  | <img width=400/>                                                                                                                                  |          |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
