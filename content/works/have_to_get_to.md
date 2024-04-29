@@ -5,7 +5,8 @@ title: Have To // Get To
 
 2021     |     6'30"<br>
 
-> TODO soundcloud integration
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1054834201&color=%2329324c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<br>
 
 ##### Program Note: 
 

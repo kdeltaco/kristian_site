@@ -6,7 +6,8 @@ description:
 
 2021     |     c. 8'     |     Advanced     |     [Perusal Score](</State of Alarm Perusal Score.pdf>)* <br>
 
-<small>Instrumentation: `picc` `2 fl` `2 ob` `bsn` | eb clar / 3 clar / b clar | SATB sax | 4 hn / 4tp / 2tbn / b tbn | 2 euph / 2 tba | Timp + 6 perc | hrp | pno</small>
+<small>Instrumentation:<br>
+&nbsp; &nbsp; picc | 2 fl | 2 ob | bsn | eb clar / 3 clar / b clar | SATB sax | 4 hn / 4tp / 2tbn / b tbn | 2 euph / 2 tba | Timp + 6 perc | hrp | pno</small>
 <br>
 
 {{<youtube ztoL5xNwtSo>}}

@@ -5,10 +5,11 @@ title: Damaged Goods
 
 2021     |     c. 10"     |     Medium     <br>
 <small>Instrumentation:</small><br>
-<small>&nbsp; &nbsp; 2.2.2.2, 4.2.2.1, Timp , 4 Perc , Hp , Pno,  Strings</small><br> 
+<small>&nbsp; &nbsp; 2.2.2.2, 4.2.2.1, Timp , 4 Perc , Hp , Pno,  Strings</small><br>
 <small>&nbsp; &nbsp; 2nd winds doubling picc, eng. horn, bass clarinet</small>
 
-> TODO soundcloud integration
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1286257585&color=%2329324c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<br>
 
 ##### Program Note: 
 
