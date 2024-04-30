@@ -2,8 +2,7 @@
 title = "Bio"
 +++
 
-![bio](/bio.webp)
-<sub>Photo by Ford Fourqurean</sub>
+![bio](/home.webp)
 
 Kristian de Leon is a Brooklyn-based composer and artist who aims to create colorful, imaginative works that explore the threads that connect our human condition. He focuses on blending elements of acoustic, electronic, and visual media, looking to find inventive ways to push past traditional conventions, fostering a new kind of connection to those who interact with his work. \
 His recent projects include compositions for acoustic-electric ensemble and dynamic lighting, works for creative movement and adaptive fixed media, and real-time visual synthesis for generative electronic music.

@@ -1,7 +1,4 @@
 ---
 ---
 
-<br>
-Composer | Multimedia Artist
-
-![](/touch.png)
+![](/muted_shapes.jpeg)
