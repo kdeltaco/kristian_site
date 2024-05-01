@@ -1,4 +1,4 @@
 ---
 ---
 
-![](/muted_shapes.jpeg)
+<div height:full> <center> composer </center></div>
