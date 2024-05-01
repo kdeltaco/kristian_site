@@ -3,8 +3,6 @@ languageCode = 'en-us'
 title = 'Kristian de Leon'
 theme = 'holy'
 
-CanonifyURLs=true
-
 [markup.goldmark.renderer]
   unsafe = true
 
