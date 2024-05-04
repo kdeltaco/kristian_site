@@ -10,7 +10,7 @@ Contact me at [kdeleonmusic@gmail.com](mailto:kdeleonmusic@gmail.com) for more i
 | <img width=150/> | <img width=400/>                                 | <img width=50/> |     |
 | ---------------- | ------------------------------------------------ | --------------- | --- |
 | **Wind Band**    | [_State of Alarm_](/works/state_of_alarm) (2021) | 7 ' 30"         |     |
-| **Orchestra**    | [_Damaged Goods_](/works/damaged_goods) (2021)   | c. 10'          |     |
+| **Orch.**    | [_Damaged Goods_](/works/damaged_goods) (2021)   | c. 10'          |     |
 
 ### Chamber Ensemble
 
