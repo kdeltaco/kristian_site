@@ -5,10 +5,7 @@ title = "Bio"
 <img src="/bio.jpeg"></img>
 
 
-Kristian de Leon is a Brooklyn, NY-based composer and electronic media artist, working across composition, sound design, and creative visual technology. His practice draws on formal training in percussion and composition, and extends through an ongoing interest in the relationship between live performance and visual media. 
-
-
-Kristian de Leon is a Brooklyn-based composer and visual artist who builds vivid, imaginative work out of the tangled contradictions of being human. Blending elements of acoustic, electronic, and visual media, his work moves between intimate acoustic-electric composition and visual design for live performance. 
+Kristian de Leon is a Brooklyn-based composer and visual artist who builds vivid, imaginative work out of the tangled contradictions of being human. Trained in percussion and composition, his practice has grown to include electronics and visual media, moving between intimate acoustic-electric composition and visual design for live performance. 
 
 His recent projects include compositions for [acoustic-electric ensemble and dynamic lighting](/works/tone_color), works for creative [movement and adaptive fixed media](https://www.youtube.com/watch?v=RrGkwiDONIc), and [real-time visual synthesis](https://www.youtube.com/watch?v=Iq9cCLmR2CI) for generative electronic music.
 
