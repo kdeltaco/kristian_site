@@ -17,10 +17,10 @@ Contact me at [kdeleonmusic@gmail.com](mailto:kdeleonmusic@gmail.com) for more i
 | <img width=150/> | <img width=400/>                                                                                                                           | <img width=50/> |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
 | **Pierrot**      | [_Almost, Tango_](/works/almost_tango) (2022)                                                                                              | *6' 30"*        |
+| **Duo**          | _Self Talk_  (2021)<br>                                                                                                                    | *10"*           |
 | **Mixed**        | [_Missed Messages_](/works/missed_messages) (2019)<br><sub>Bb Tpt / A Sax / Tbn / Pno / Perc: Crotales, Vibraphone, Kick Drum</sub>        | *9-10"*         |
 | **Mixed**        | [_Making Matters Worse_](/works/making_matters_worse)  (2018, rev. 2019)<br><sub>Piano / Spoken Word / (opt. Indeterminate Ensemble)</sub> | *4' 33"+*       |
 | **Brass**        | _3 Shorts for Andrew_<br><sub>Tuba Quartet<br>(arr. for Brass Quintet)</sub>                                                               | *10"*           |
-| **Duo**          | _Self Talk_  (2021)<br>                                                                                                                    | *10"*           |
 
 ### Strings
 
@@ -31,8 +31,8 @@ Contact me at [kdeleonmusic@gmail.com](mailto:kdeleonmusic@gmail.com) for more i
 ## Percussion
 | <img width=150/>  | <img width=400/>                                                                                                                                                                   |           |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| **Large Chamber** | [*Crystalline Structures*](/works/crystalline_structures) (2020)                          <br><sub>16 Percussionists: Steel Pan / 6 Mallets / 7 Mixed Percussion / Drum Set </sub> | c. 6' 50" |
 | **Quartet**       | [*(i am becoming) shades of myself*](/works/shades)  (2021)<br><sub>Mallet Quartet</sub>                                                                                           | c. 8'     |
+| **Large Chamber** | [*Crystalline Structures*](/works/crystalline_structures) (2020)                          <br><sub>16 Percussionists: Steel Pan / 6 Mallets / 7 Mixed Percussion / Drum Set </sub> | c. 6' 50" |
 | **Duo**           | [*Just After Four*](/works/just_after_four) (2018)                                        <br><sub>Multiple Percussion</sub>                                                       | c. 10'    |
 
 ## Solo
